@@ -1,2 +1,2 @@
 # DGTAKA
- site
+ https://dgtaka.netlify.app
